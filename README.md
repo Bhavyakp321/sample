@@ -16,7 +16,7 @@ This is a simple Python script that calculates the area of a rectangle based on 
 
 5. The script will **display the calculated area** of the rectangle.
 
-## REQUIREMENT
+## REQUIREMENTS
     - Python 11
 
 ## EXAMPLE
