@@ -20,9 +20,9 @@ This is a simple Python script that calculates the area of a rectangle based on 
    - Python 11
 
 #### EXAMPLE
-Enter length: 5
-Enter width: 3
-The area of the rectangle is: 15 
+   - Enter length: 5
+   - Enter width: 3
+   - The area of the rectangle is: 15 
 
    
 
