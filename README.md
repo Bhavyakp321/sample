@@ -1,5 +1,5 @@
 # Area of Rectangle
-This simple Python script calculates the area of a rectangle based on user input for length and width.
+This is a simple Python script that calculates the area of a rectangle based on user input for length and width.
 
 ## HOW TO RUN
 
@@ -8,5 +8,15 @@ This simple Python script calculates the area of a rectangle based on user input
 
 2. **Navigate to repository directory** :
    - cd <repository_directory>
+
+3. **Run the script** using Python:
+   - python p1.py
+
+4. **Follow the prompts** to enter the length and width of the rectangle.
+
+5. The script will **display the calculated area** of the rectangle.
+
+### REQUIREMENTS
+- Python 11 
    
 
